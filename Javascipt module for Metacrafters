@@ -1,0 +1,51 @@
+// array for nfts
+const NFTs = []
+
+// minting nft function
+function mintNFT(nft) {
+    NFTs.push(nft)
+    return nft;
+}
+
+// listing of nfts
+function listNFTs() {
+    NFTs.forEach(nft => {
+        console.log(nft);
+    })
+}
+
+// display total nfts
+function getTotalSupply() {
+    console.log(" Total Supply: " + NFTs.length)
+}
+
+// call your functions below this line
+
+mintNFT({
+    id: 1,
+    item: "😤",
+    name: "pumped up ",
+    description: "hype nft"
+})
+mintNFT({
+    id: 2,
+    item: "😀",
+    name: "smile and shine",
+    description: "smiley nft"
+})
+mintNFT({
+    id: 3,
+    item: "️😱",
+    name: "Goosebumps",
+    description: "scared nft"
+})
+mintNFT({
+    id: 4,
+    item: "🥶️",
+    name: "Icey",
+    description: "chill nft"
+})
+
+listNFTs()
+
+getTotalSupply()
