@@ -1,4 +1,4 @@
- ETHERIUM BEGGINER MODULE
+ ETHERIUM BEGINNER MODULE
 
 The module is given to us to teach us the fundamentals of creating a block chain
 
@@ -43,6 +43,8 @@ contract MyToken {
 
 
 Authors
+Jorge ramiscal
+@JRamiscal
 
 Contributors names and contact info
 
@@ -52,4 +54,4 @@ Ramiscal Jorge
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the Ramiscal Jorge License - see the LICENSE.md file for details
