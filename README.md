@@ -49,7 +49,7 @@ Jorge ramiscal
 Contributors names and contact info
 
 Ramiscal Jorge
-[@@Jay2kkkk](https://twitter.com/Jay2kkkk)
+[@Jay2kkkk](https://twitter.com/Jay2kkkk)
 
 
 ## License
